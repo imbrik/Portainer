@@ -1,0 +1,7 @@
+sudo apt install software-properties-common software-properties-gtk
+
+Теперь для непосредственной установки elementary Tweak выполните в терминале эти команды:
+
+sudo add-apt-repository ppa:philip.scott/elementary-tweaks  
+sudo apt update
+sudo apt install elementary-tweaks
